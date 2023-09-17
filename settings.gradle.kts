@@ -1,4 +1,4 @@
-rootProject.name = "MyApplication"
+rootProject.name = "WhereIsEveryone"
 
 include(":androidApp")
 include(":shared")

@@ -1,4 +1,4 @@
-package com.myapplication
+package com.kumpello
 
 import MainView
 import android.os.Bundle
